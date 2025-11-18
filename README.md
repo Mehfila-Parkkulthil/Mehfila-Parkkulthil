@@ -10,6 +10,11 @@
 - 🌱 I’m currently trying to solve leetcode problems.</p>
 
 <h2>Certificates</h2>
+- [Introduction to Software Engineering]()
+- Certificate Name 2  
+  _Institution, Date_  
+  ![Certificate Image](image-url-or-path)
+
 
 
 

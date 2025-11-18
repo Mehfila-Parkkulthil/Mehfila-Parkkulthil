@@ -9,4 +9,7 @@
 - 🔭 I’m currently working on Data structures and Algorithms <br>
 - 🌱 I’m currently trying to solve leetcode problems.</p>
 
+<h2>Certificates</h2>
+
+
 

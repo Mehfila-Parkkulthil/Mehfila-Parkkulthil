@@ -11,6 +11,10 @@
 
 <h2>Certificates</h2>
 
+<img width="1034" height="736" alt="image" src="https://github.com/user-attachments/assets/7394fd62-a03a-4f26-bb34-fd1707aa36ea" />
+
+<img width="802" height="566" alt="image" src="https://github.com/user-attachments/assets/adcb844d-9992-4afb-bfa1-e846c9d84526" />
+
 
 
 

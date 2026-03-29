@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <p>𝗪𝗵𝗼 𝗮𝗺 𝗜 ?</p>
 <h1>Mehfila Parkkulthil</h1>
 <p><b>A  Software Developer skilled in building web applications , with strong problem-solving skills and a solid foundation in programming.</b></p>

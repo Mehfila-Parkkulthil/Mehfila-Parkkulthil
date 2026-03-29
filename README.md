@@ -2,7 +2,8 @@
 
 <p>𝗪𝗵𝗼 𝗮𝗺 𝗜 ?</p>
 <h1>Mehfila Parkkulthil</h1>
-<p><b>A  Software Developer skilled in building web applications , with strong problem-solving skills and a solid foundation in programming. Passionate about delivering clean,efficient code and creating innovative, user-friendly solutions.</b></p>
+<p><b>A  Software Developer skilled in building web applications , with strong problem-solving skills and a solid foundation in programming.</b></p>
+<p><b>Passionate about delivering clean,efficient code and creating innovative, user-friendly solutions.</b></p>
 
 <br>
 
@@ -11,7 +12,7 @@
 
 <p>🔭 I’m currently trying to figure out AI , ML, NLP and game theory <br></p>
 
-<p> <b>Technical skills : Python , c++ , Java , JavaScript , Numpy , MERN,</b> </p>
+<p><b>Technical skills : Python , c++ , Java , JavaScript , Numpy , MERN </b> </p>
 
 <h2>Certificates</h2>
 
